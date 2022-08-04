@@ -35,4 +35,4 @@ myArray = GetArray(10, 100, 999);
 ShowArray(myArray);
 Console.WriteLine("количество четных чисел массива " + CountOfEven(myArray));
 
-//Console.WriteLine("Hello, World!");
+
